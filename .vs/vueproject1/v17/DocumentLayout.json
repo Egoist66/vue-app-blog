@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\razor\\OneDrive\\Desktop\\tech-front\\vueproject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAA523B-E057-4D1C-A8D9-D099E9929185}|vueproject1\\vueproject1.esproj|c:\\users\\razor\\onedrive\\desktop\\tech-front\\vueproject1\\vueproject1\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EAA523B-E057-4D1C-A8D9-D099E9929185}|vueproject1\\vueproject1.esproj|solutionrelative:vueproject1\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAA523B-E057-4D1C-A8D9-D099E9929185}|vueproject1\\vueproject1.esproj|c:\\users\\razor\\onedrive\\desktop\\tech-front\\vueproject1\\vueproject1\\src\\components\\helloworld.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EAA523B-E057-4D1C-A8D9-D099E9929185}|vueproject1\\vueproject1.esproj|solutionrelative:vueproject1\\src\\components\\helloworld.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAA523B-E057-4D1C-A8D9-D099E9929185}|vueproject1\\vueproject1.esproj|c:\\users\\razor\\onedrive\\desktop\\tech-front\\vueproject1\\vueproject1\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8EAA523B-E057-4D1C-A8D9-D099E9929185}|vueproject1\\vueproject1.esproj|solutionrelative:vueproject1\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAA523B-E057-4D1C-A8D9-D099E9929185}|vueproject1\\vueproject1.esproj|c:\\users\\razor\\onedrive\\desktop\\tech-front\\vueproject1\\vueproject1\\src\\assets\\styles\\styles.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{8EAA523B-E057-4D1C-A8D9-D099E9929185}|vueproject1\\vueproject1.esproj|solutionrelative:vueproject1\\src\\assets\\styles\\styles.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\razor\\OneDrive\\Desktop\\tech-front\\vueproject1\\vueproject1\\src\\main.ts",
+              "RelativeDocumentMoniker": "vueproject1\\src\\main.ts",
+              "ToolTip": "C:\\Users\\razor\\OneDrive\\Desktop\\tech-front\\vueproject1\\vueproject1\\src\\main.ts",
+              "RelativeToolTip": "vueproject1\\src\\main.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-17T13:18:23.996Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "styles.scss",
+              "DocumentMoniker": "C:\\Users\\razor\\OneDrive\\Desktop\\tech-front\\vueproject1\\vueproject1\\src\\assets\\styles\\styles.scss",
+              "RelativeDocumentMoniker": "vueproject1\\src\\assets\\styles\\styles.scss",
+              "ToolTip": "C:\\Users\\razor\\OneDrive\\Desktop\\tech-front\\vueproject1\\vueproject1\\src\\assets\\styles\\styles.scss",
+              "RelativeToolTip": "vueproject1\\src\\assets\\styles\\styles.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-05-17T13:58:11.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.vue",
+              "DocumentMoniker": "C:\\Users\\razor\\OneDrive\\Desktop\\tech-front\\vueproject1\\vueproject1\\src\\App.vue",
+              "RelativeDocumentMoniker": "vueproject1\\src\\App.vue",
+              "ToolTip": "C:\\Users\\razor\\OneDrive\\Desktop\\tech-front\\vueproject1\\vueproject1\\src\\App.vue",
+              "RelativeToolTip": "vueproject1\\src\\App.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-05-17T13:18:32.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloWorld.vue",
+              "DocumentMoniker": "C:\\Users\\razor\\OneDrive\\Desktop\\tech-front\\vueproject1\\vueproject1\\src\\components\\HelloWorld.vue",
+              "RelativeDocumentMoniker": "vueproject1\\src\\components\\HelloWorld.vue",
+              "ToolTip": "C:\\Users\\razor\\OneDrive\\Desktop\\tech-front\\vueproject1\\vueproject1\\src\\components\\HelloWorld.vue",
+              "RelativeToolTip": "vueproject1\\src\\components\\HelloWorld.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-05-17T13:16:15.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
