@@ -1,7 +1,8 @@
 <script lang="ts" setup>
   import { onMounted } from 'vue';
-  import {createPost, isPaginating, isLoading, loadMore, posts, postAPI} from '../../service/post-service.vue';
+  import { usePosts } from '../../hooks/usePosts';
 
+  const {createPost, posts, isLoading, postAPI, isPaginating, loadMore} = usePosts();
 
 
   onMounted(async () => {

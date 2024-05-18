@@ -1,7 +1,9 @@
-<script lang="ts">
-  import {  type Post, postAPI } from '@/api/postAPI';
-  import Swal from 'sweetalert2';
-  import { ref } from 'vue';
+import {  type Post, postAPI } from '@/api/postAPI';
+import Swal from 'sweetalert2';
+import { ref } from 'vue';
+
+
+export const usePosts = () => {
 
 
 
@@ -88,6 +90,5 @@
     });
   };
 
-  export { posts, isLoading, postAPI, isPaginating, loadMore, createPost };
-
-</script>
+  return { posts, isLoading, postAPI, isPaginating, loadMore, createPost };
+}
