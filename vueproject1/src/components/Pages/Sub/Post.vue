@@ -37,6 +37,7 @@ const deletePost = async () => {
 
 <template>
     <div class="py-10">
+        <p>{}</p>
         <h1 class="text-6xl font-semibold">Post - {{ route.params.id }}</h1>
         <div v-if="isLoading" class="mt-10 flex items-center justify-center">
             <div class="animate-spin h-5 w-5 border-b-2 border-blue-500 rounded-full"></div>

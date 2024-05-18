@@ -5,8 +5,6 @@ import { ref } from 'vue';
 
 export const usePosts = () => {
 
-
-
   const posts = ref<Post[]>([]);
   const isLoading = ref<boolean>(true);
   const isPaginating = ref<boolean>(false);

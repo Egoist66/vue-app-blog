@@ -9,6 +9,7 @@
     toggler.value = !toggler.value
   }
 
+ 
 </script>
 
 <template>
@@ -17,7 +18,7 @@
 
     <div class="container px-20 mx-auto">
       <nav class="flex items-center justify-between">
-        <NavLinks />
+        <NavLinks  />
       </nav>
     </div>
 
@@ -29,7 +30,7 @@
 
     <div class="container px-20 mx-auto">
       <RouterView />
-
+      
     </div>
 
   </main>
