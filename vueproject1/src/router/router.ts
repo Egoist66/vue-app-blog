@@ -1,32 +1,34 @@
 import {
-  createMemoryHistory,
   createRouter,
   createWebHistory,
 } from "vue-router";
 
 
+const Home = () => import('../components/Pages/Home.vue');
+const About = () => import('../components/Pages/About.vue');
+const Posts = () => import('../components/Pages/Posts.vue');
 
 const routes = [
   {
     path: "/",
     meta: { title: "Home" },
-    component: () => import("../components/Pages/Home.vue"),
+    component: Home,
   },
   {
     path: "/about",
     meta: { title: "About" },
-    component: () => import("../components/Pages/About.vue"),
+    component: About,
   },
   {
     path: "/posts",
     meta: { title: "Posts" },
-    component: () => import("../components/Pages/Posts.vue"),
+    component: Posts,
   },
   {
     path: "/posts/:id",
     exact: true,
     meta: { title: "Post" },
-    component: () => import("../components/Pages/Sub/Post.vue"),
+    component: Posts,
   },
 ];
 

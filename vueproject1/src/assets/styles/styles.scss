@@ -5,8 +5,22 @@ nav {
 
 header {
     padding: 20px 0px 20px 0px;
+    transition: 0.3s all ease;
+    opacity: 1;
 }
 
 .post-card {
     height: 100%;
+}
+
+
+body,html, #app, main {
+    height: 100%;
+}
+
+.hidden-header {
+    padding: 0;
+    height: 0%;
+    transition: 0.3s all ease;
+    opacity: 0;
 }
