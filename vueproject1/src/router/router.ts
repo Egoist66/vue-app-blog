@@ -7,6 +7,7 @@ import {
 const Home = () => import('../components/Pages/Home.vue');
 const About = () => import('../components/Pages/About.vue');
 const Posts = () => import('../components/Pages/Posts.vue');
+const Post = () => import('../components/Pages/Sub/Post.vue');
 
 const routes = [
   {
@@ -28,7 +29,7 @@ const routes = [
     path: "/posts/:id",
     exact: true,
     meta: { title: "Post" },
-    component: Posts,
+    component: Post,
   },
 ];
 
