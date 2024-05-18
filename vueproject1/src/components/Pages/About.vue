@@ -16,7 +16,7 @@
 </template>
 
 <script setup lang="ts">
-import { onBeforeRouteUpdate } from 'vue-router';
+import { onBeforeRouteUpdate, } from 'vue-router';
 
 
     onBeforeRouteUpdate((updateGuard) => {

@@ -7,7 +7,7 @@
     
     <div class="container px-20 mx-auto">
       <nav class="flex items-center justify-between">
-        <NavLinks />
+        <NavLinks  />
       </nav>
     </div>
     
