@@ -49,7 +49,7 @@
       </RouterLink>
     </div>
 
-    <div class="mt-20 text-center">
+    <div class="py-10 text-center">
       <button
         :disabled="isPaginating"
         @click="loadMore"
