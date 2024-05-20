@@ -5,7 +5,7 @@
   const {createPost, posts, isLoading, postAPI, isPaginating, loadMore} = usePosts();
 
 
-  onMounted(async () => {
+  onMounted( async () => {
     try {
       posts.value = await postAPI.getPosts();
     } finally {
@@ -18,7 +18,7 @@
 <template>
   <div class="my-10">
     <div class="flex justify-between items-baseline">
-      <h1 class="text-6xl font-semibold pt-10">{2 + 2}</h1>
+      <h1 class="text-6xl font-semibold pt-10">Blog</h1>
       <button
         @click="createPost"
         class="px-5 py-3 rounded bg-blue-500 text-white hover:bg-blue-700"

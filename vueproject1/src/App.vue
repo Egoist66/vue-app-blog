@@ -1,13 +1,17 @@
 <script setup lang="ts">
   import NavLinks from './components/Layout/NavLinks.vue'
-  import { ref } from 'vue';
+  import { ref, onMounted } from 'vue';
 
 
   const toggler = ref<boolean>(false);
+  //const NavLink = ref<InstanceType<typeof NavLinks> | null>(null)
+    
 
   const toggle = () => {
     toggler.value = !toggler.value
   }
+
+
 
  
 </script>
